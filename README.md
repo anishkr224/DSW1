@@ -1,1 +1,11 @@
-![View Count](https://img.shields.io/badge/views-123-blue)
+- Preliminaries
+- Python Language Basics
+- IPython and Jupyter Notebooks
+- Built-In Data Structures
+- Functions and Files
+- NumPy Basics: Arrays and Vectorized Computation
+- Getting Started with pandas: Data Loading, Storage, and File Formats
+- Data Cleaning and Preparation
+- Data Wrangling: Join, Combine, and Reshape
+- Plotting and Visualization
+- Data Aggregation and Group Operations.
